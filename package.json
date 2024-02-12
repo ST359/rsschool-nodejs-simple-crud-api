@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.2",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  },
+  "name": "rsschool-nodejs-simple-crud-api",
+  "description": "RSSchool simple-crud-api task solution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.2",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST359/rsschool-nodejs-simple-crud-api.git"
+  },
+  "author": "Andrey Naumov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ST359/rsschool-nodejs-simple-crud-api/issues"
+  },
+  "homepage": "https://github.com/ST359/rsschool-nodejs-simple-crud-api#readme"
+}
